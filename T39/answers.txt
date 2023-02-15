@@ -1,0 +1,21 @@
+===Compulsory Task 1===
+
+1. Protocol: A protocol is a defined structure of data for use in exchanges
+between client and server. An example would be HTTP which uses a system of
+client requests and server responses in a form of back and forth messaging
+communications using proxy servers. Protocols set the rules for how these
+are formatted in order to standardise communications.
+
+2. HTTP is built on the TCP - IP protocol which breaks data in to "packets"
+which are sent and reassembled on the recipients end.
+
+3. Successful infomration receipt on HTTP would be represented by code 200.
+
+4. A stateless protocol is one where the "state" isn't saved from the client
+requests, there is no continuation from each request. E.g. repeatedly asking
+for 1 request would not result in getting the next piece of data from a
+database per request, instead it would repeatedly send the first piece of data.
+
+5. b, c, f
+
+6. An expected message to a denied access on a server could be 403 - forbidden
