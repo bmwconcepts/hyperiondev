@@ -1,0 +1,87 @@
+html{
+    background-repeat: repeat;
+    background: linear-gradient(0deg, rgba(20, 20, 20, 0.95), rgba(20, 20, 20, 0.95)), url(https://i.imgur.com/S7GjLur.png);
+}
+
+html p{
+    font-size:larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gold;
+    text-shadow: 1px 1px 1px darkblue;
+}
+
+html div{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+
+html a{
+    color: deeppink;
+}
+
+.highlight{
+    color: deeppink;
+}
+.section_title{
+    font-family: "Audiowide", sans-serif;
+    color:gold;
+    text-shadow: 2px 2px 2px darkblue;
+    background-color: darkturquoise;
+    padding: 1%;
+    box-shadow: 5px 5px 2px darkblue;
+    border-radius: 0px 20px 0px 20px;
+    text-align: center;
+    
+}
+
+#heading_title{
+    background-color: darkturquoise;
+    box-shadow: 10px 10px 5px darkblue;
+    color:white;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    padding: 1%;
+    text-shadow: 2px 2px 2px darkblue;
+    border-radius: 0px 20px 0px 20px;
+}
+
+#about_content img{
+    float: right;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkturquoise;
+    box-shadow: 5px 5px 2px darkblue;
+}
+
+#Contact{
+    text-align: center;
+}
+
+#Skills{
+    text-align: center;
+}
+
+#Education{
+    text-align: center;
+}
+#Education img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+#Portfolio{
+    text-align: center;
+}
+
+#footer{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: darkturquoise;
+    box-shadow: 5px 5px 2px darkblue;
+    border-radius: 0px 20px 0px 20px;
+}
